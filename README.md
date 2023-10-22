@@ -1,5 +1,7 @@
 ### Hi there its me Gaurav👋
+
 <!-- ![Snake animation](https://github.com/kd2-80161/kd2-80161/blob/output/github-contribution-grid-snake-dark.svg) -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kd2-80161/kd2-80161/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kd2-80161/kd2-80161/output/github-contribution-grid-snake.svg">
@@ -13,8 +15,18 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&hide_border=true)
 
-   [Snake Made by](https://blog.arnabghosh.me/add-github-dark-snake-animation-readme)
- 
+   <details>
+    <summary>made with </summary>
+   <p>
+     
+   [Snake](https://blog.arnabghosh.me/add-github-dark-snake-animation-readme)
+   
+   [Statistics](https://github.com/anuraghazra/github-readme-stats)
+
+   >golden rule when you find the md syntax is not working just give spaces horizontally or vertically :wink:
+   
+ </p>
+  </details>
 
 
 
