@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there is me Gaurav👋
 
+![Snake animation](https://github.com/kd2-80161/kd2-80161/blob/output/github-contribution-grid-snake-dark.svg)
 <!--
 **kd2-80161/kd2-80161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
